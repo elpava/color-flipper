@@ -1,0 +1,19 @@
+{
+  "name": "color-flipper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hadikman/color-flipper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hadikman/color-flipper/issues"
+  },
+  "homepage": "https://github.com/hadikman/color-flipper#readme"
+}
