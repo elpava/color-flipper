@@ -1,2 +1,2 @@
 # color-flipper
-changing background color randomly
+random background color
